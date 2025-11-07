@@ -1,0 +1,11 @@
+{
+  "file": "constitution/Charter_of_Network_Sovereignty.md",
+  "sha3_512": "TBD",
+  "anchors": {
+    "bitcoin_op_return": "TBD",
+    "ethereum_calldata": "TBD",
+    "arweave_tx": "TBD"
+  },
+  "date": "TBD",
+  "signatures": []
+}
